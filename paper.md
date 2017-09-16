@@ -1,5 +1,5 @@
 ---
-  title: "CytobankAPIstats: Computes Signaling and Population Statistics         for Cytometry Data on Cytobank using 'CytobankAPI'"
+  title: "CytobankAPIstats: Computes Signaling and Population Statistics for Cytometry Data on Cytobank using 'CytobankAPI'"
   authors:
    - name: Allison A. Throm
      affiliation: 1,2
