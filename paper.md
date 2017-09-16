@@ -4,7 +4,7 @@
    - name: Allison A. Throm
      affiliation: 1,2
    - name: Anthony R. French
-     affiliation: 2
+     affiliation: 1,2
   affiliations:
    - name: Department of Biomedical Enginering, Washington University in   St. Louis
      index: 1
