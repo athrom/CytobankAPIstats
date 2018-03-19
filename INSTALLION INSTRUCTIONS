@@ -1,0 +1,7 @@
+This package is available on the CRAN repository for installation from the following link:
+https://CRAN.R-project.org/package=CytobankAPIstats
+
+The R package can easily be installed from the R Console command line or using RStudio with the following command:
+install.packages("CytobankAPIstats",dep=T)
+
+Package functions can be accessed used library(CytobankAPIstats) once the package is installed.
