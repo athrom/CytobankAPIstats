@@ -35,3 +35,4 @@ analyzedata<-function(cyto_session,markersofinterest,popsofinterest,exptID,type)
   meds<-parsestats(results=medsi,popsinterest = pops,fcs=fcs,markersofinterest = markers)   
   return(meds)
 }
+
