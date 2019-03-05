@@ -5,11 +5,11 @@
    - mass cytometry
   authors:
    - name: Allison A. Throm
-     affiliation: 1,2
+     affiliation: "1,2"
      orcid: 0000-0001-6689-7904
    - name: Anthony R. French
      orcid: 0000-0002-4556-8391
-     affiliation: 1,2
+     affiliation: "1,2"
   affiliations:
    - name: Department of Biomedical Enginering, Washington University in   St. Louis
      index: 1
